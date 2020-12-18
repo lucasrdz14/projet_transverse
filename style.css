@@ -146,7 +146,7 @@ nav ul li a{
     display: flex;
     align-items: center;
     margin-bottom: 40px;
-    justify-content: center;
+    justify-content: left;
 
 }
 
@@ -270,8 +270,9 @@ hr {
 
 #footer{
     padding: 100px 0 20px;
-    background: lightgray;
+    background: black;
     font-family:'Poppins', sans-serif;
+    color: #F0E68C;
 }
 
 .footer-row {
@@ -280,6 +281,7 @@ hr {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    color: #F0E68C;
 }
 
 .footer-left, .footer-right{
@@ -317,9 +319,9 @@ hr {
 .social-media .fab{
     height: 40px;
     width: 40px;
-    font-size: 20px;
+    font-size: 40px;
     line-height: 40px;
-    margin: 40px 5px 0;
+    margin: 10px 20px 0;
     cursor: pointer;
 
 }
