@@ -23,7 +23,7 @@
                 <input type="password" placeholder="Mot de Passe" name="mot de passe" value="">
             </div>
             <input class="btn" type="submit" name="" value="Se connecter">
-            <input class="btn" type="submit" name="" value="S'incrire">
+            <input class="btn" type="submit" name="" value="S'inscrire">
         </div>
         </section>
 
